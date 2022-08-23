@@ -7,6 +7,3 @@ This is the relevant link for google drive that consist of all the results and t
 https://drive.google.com/drive/folders/1O74zfbex3qNPeCOa-1HvhHM9UE3wsSLv?usp=sharing
 
 
-The relevant link for google colab IDE delinates as
-
-https://drive.google.com/file/d/19sPjviHlIWrDahlUJqAPZtxOu7yQou5G/view?usp=sharing
